@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/33/cb/e3/33cbe3b0d0a47dcf6eb3c169783ebe66.gif" alt="Contoh Gambar" style="width:100%; object-fit:cover">
+  <img src="https://i.pinimg.com/originals/29/28/22/292822c20aae64810607bd23900c0c19.gif" alt="Contoh Gambar" style="width:100%; object-fit:cover">
 </div>
 
 
