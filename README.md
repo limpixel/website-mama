@@ -1,3 +1,5 @@
+
+
 # Dokumentasi Website Jasa dan Pengembangan Website
 
 ## Deskripsi
@@ -17,7 +19,7 @@ Website ini menyediakan layanan pembuatan dan pengembangan website untuk berbaga
 4. Proses pembuatan website dimulai setelah kesepakatan.
 
 ## Teknologi yang Digunakan
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, TypeScript
 - Framework: React, Vue, Laravel (opsional sesuai kebutuhan)
 - Database: MySQL, MongoDB
 - Hosting: Cloud dan shared hosting
