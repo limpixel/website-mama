@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://i.pinimg.com/originals/33/cb/e3/33cbe3b0d0a47dcf6eb3c169783ebe66.gif" alt="Contoh Gambar" style="width:100%; object-fit:cover">
+</div>
 
 
 # Dokumentasi Website Jasa dan Pengembangan Website
